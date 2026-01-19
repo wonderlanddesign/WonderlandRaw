@@ -1,0 +1,78 @@
+Overall Visual Aesthetic & Art Style:
+
+The art style is highly reminiscent of anime or manga, specifically with a strong influence from the "Persona" video game series' character design. Key indicators include:
+
+Thick, angular black outlines: Defining all major forms and emphasizing features.
+Vibrant, saturated colors: With clear, distinct blocks of color and limited blending.
+High contrast shading: Achieved through sharp, geometric shadows, often in black or darker shades of the base color, creating a dramatic and graphic look. This gives a sense of strong light sources.
+Expressive facial features: Particularly in Alice, with large, detailed eyes.
+Dynamic posing: Both characters are presented in active, engaging postures.
+The overall aesthetic is energetic, stylized, and modern while still referencing classic character archetypes.
+
+Character 1: Alice
+
+Appearance: Young female, likely in her late teens or early twenties, with a lean and somewhat athletic build.
+
+Clothing: She is dressed in a recognizable "Alice in Wonderland" motif, but with a modern, somewhat edgy twist:
+
+Dress: A deep royal blue puffed-sleeve dress with a white frilly apron over it.
+The dress has a Peter Pan collar with a red bow.
+The sleeves are short and extend just above the elbow, with white frilly cuffs.
+The skirt is full and layered, showing white petticoat edging underneath the blue.
+The apron is classic maid-style, with a ruffled edge and features two heart-shaped pockets/details with red centers.
+Accessories:
+A large red bow in her hair.
+A smaller red bow at her neck.
+White thigh-high stockings.
+Red garters that hold up the stockings, creating a vibrant contrast.
+Red Mary Jane style shoes with a small heel and a red bow on the strap.
+She is holding a playing card, specifically the Ace of Hearts, in her left hand.
+Hair:
+
+Long, wavy or lightly curled blonde hair, extending past her shoulders.
+It appears to be a bright, almost golden blonde.
+A large red bow is prominently placed at the top of her head.
+Facial Features:
+
+Eyes: Large, expressive blue eyes with prominent black eyeliner and long eyelashes. They have an upward tilt at the outer corners, common in anime. Highlight reflections are visible in the pupils.
+Eyebrows: Thin, arched, and light brown/blonde.
+Nose: Small and subtly rendered.
+Mouth: Small, with plump lips colored in a soft red, curving slightly into a gentle smile.
+Skin: Fair complexion with a light blush on her cheeks.
+Colors: Predominantly royal blue, white, and vivid red, with accents of black for outlines and shading. Blonde for hair, fair skin tones.
+
+Character 2: The White Rabbit
+
+Appearance: An anthropomorphic rabbit standing on two legs, dressed in formal attire.
+
+Clothing:
+
+Top Hat: A dark blue or black top hat with a lighter blue band.
+Suit: A striking royal blue tailcoat suit jacket over a vest of the same color, and a white ruffled shirt.
+The suit features dark blue/black lapels and cuffs.
+A blue bow tie.
+Golden buttons on the vest.
+Accessories:
+He is holding a golden pocket watch with a matching chain, characteristic of the White Rabbit. The watch face is clearly detailed.
+Hair/Fur:
+
+Mainly white fur, particularly on his face, chest, and tail.
+Black fur covers most of his body, arms, and legs.
+The inside of his ears is pink/red.
+Facial Features:
+
+Eyes: Red eyes with slit pupils, giving a slightly intense or hurried look, fitting for the character.
+Nose: Small, pink nose.
+Whiskers: Prominent black whiskers on either side of his snout.
+Mouth: A small mouth, slightly open to reveal a hint of teeth.
+Ears: Long, upright black and white ears with pink interiors.
+Colors: Dominantly black, white, and a rich royal blue for the suit and hat. Accents of red for eyes and ear interiors, gold for the watch.
+
+Summary for Consistency:
+
+To maintain consistency for video generation, focus on:
+
+Art Style: Keep the thick black outlines, high-contrast, block shading, and vibrant, saturated color palette.
+Alice: Blonde hair (wavy/curly), blue eyes with sharp eyeliner, red bows (hair, neck, shoes), blue dress, white ruffled apron with heart details, white thigh-highs with red garters, red Mary Jane shoes.
+White Rabbit: Black and white fur (patterned as seen), red eyes, blue top hat, blue tailcoat suit with vest and bow tie, golden pocket watch.
+Character Expression/Posing: Alice has a gentle, slightly playful expression holding the card. The Rabbit is focused and slightly urgent, checking his watch. The poses are dynamic and clear.
